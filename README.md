@@ -1,4 +1,4 @@
 dicegame
 ========
 
-Dice Game in Unity
+Awesome Dice Game in Unity
